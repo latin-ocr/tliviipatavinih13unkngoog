@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih13unkngoog_0002.png"; bbox 0 0 2159 3725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 2352 1681 2415">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 2352 1681 2415">
+     <span class='ocr_line' id='line_1_1' title="bbox 410 2352 1681 2415; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 410 2355 835 2412; x_wconf 85' lang='lat' dir='ltr'><strong>GRENVILLE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 867 2353 1253 2410; x_wconf 80' lang='lat' dir='ltr'><strong>HOWLAND</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1290 2352 1681 2415; x_wconf 87' lang='lat' dir='ltr'>NORCROSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 885 2522 1207 2564">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 885 2522 1207 2564">
+     <span class='ocr_line' id='line_1_2' title="bbox 885 2522 1207 2564; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 885 2523 960 2564; x_wconf 75' lang='grc'><strong>01·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 985 2522 1207 2564; x_wconf 70' lang='lat' dir='ltr'>nosmn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 853 2678 1359 2735">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 853 2678 1359 2735">
+     <span class='ocr_line' id='line_1_3' title="bbox 853 2678 1359 2735; baseline -0.016 0"><span class='ocrx_word' id='word_1_6' title='bbox 853 2679 1010 2735; x_wconf 67' lang='lat' dir='ltr'>Clas</span> <span class='ocrx_word' id='word_1_7' title='bbox 1030 2679 1097 2733; x_wconf 84' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1118 2678 1249 2733; x_wconf 80' lang='lat'>1875</span> <span class='ocrx_word' id='word_1_9' title='bbox 1354 2720 1359 2727; x_wconf 95' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 187 878 1800 3702">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 187 878 1800 3702">
+     <span class='ocr_line' id='line_1_4' title="bbox 187 878 1800 3702; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 187 878 1800 3702; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
